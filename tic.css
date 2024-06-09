@@ -29,65 +29,65 @@ p {
 } 
 /* 3*3 Grid */
 #b1{ 
-	border-bottom: 1px solid gray; 
-	border-right: 1px solid gray; 
+	border-bottom: 1px solid black; 
+	border-right: 1px solid black; 
 } 
 
 #b2 { 
-	border-bottom: 1px solid gray; 
-	border-right: 1px solid gray; 
-	border-left: 1px solid gray; 
+	border-bottom: 1px solid black; 
+	border-right: 1px solid black; 
+	border-left: 1px solid black; 
 } 
 
 #b3 { 
-	border-bottom: 1px solid gray; 
-	border-left: 1px solid gray; 
+	border-bottom: 1px solid black; 
+	border-left: 1px solid black; 
 } 
 
 #b4 { 
-	border-top: 1px solid gray; 
-	border-bottom: 1px solid gray; 
-	border-right: 1px solid gray; 
+	border-top: 1px solid black; 
+	border-bottom: 1px solid black; 
+	border-right: 1px solid black; 
 } 
 	
 #b5 { 
-	border: 1px solid gray; 
+	border: 1px solid black; 
 } 
 
 #b6 { 
-	border-top: 1px solid gray; 
-	border-bottom: 1px solid gray; 
-	border-left: 1px solid gray; 
+	border-top: 1px solid black; 
+	border-bottom: 1px solid black; 
+	border-left: 1px solid black; 
 } 
 
 #b7 { 
-	border-top: 1px solid gray; 
-	border-right: 1px solid gray; 
+	border-top: 1px solid black; 
+	border-right: 1px solid black; 
 } 
 
 #b8 { 
-	border-top: 1px solid gray; 
-	border-right: 1px solid gray; 
-	border-left: 1px solid gray; 
+	border-top: 1px solid black; 
+	border-right: 1px solid black; 
+	border-left: 1px solid black; 
 } 
 
 #b9 { 
-	border-top: 1px solid gray; 
-	border-left: 1px solid gray; 
+	border-top: 1px solid black; 
+	border-left: 1px solid black; 
 } 
 /* Reset Button */
 #but { 
 	box-sizing: border-box; 
 	width: 95px; 
 	height: 40px; 
-	border: 1px solid dodgerblue; 
+	border: 2px solid greenyellow; 
 	margin-left: auto; 
 	border-radius: 8px; 
 	font-family: Verdana, 
 		Geneva, Tahoma, sans-serif; 
 
 	background-color: whitesmoke; 
-	color: dodgerblue; 
+	color: black; 
 	font-size: 20px; 
 	cursor: pointer; 
 } 
@@ -96,7 +96,7 @@ p {
 #print { 
 	font-family: Verdana, 
 		Geneva, Tahoma, sans-serif; 
-	color: dodgerblue; 
+	color: red; 
 	font-size: 20px; 
 } 
 
@@ -109,5 +109,5 @@ p {
 #ins { 
 	font-family: Verdana,Geneva, 
 					Tahoma, sans-serif; 
-	color: dodgerblue; 
+	color: peru; 
 }
