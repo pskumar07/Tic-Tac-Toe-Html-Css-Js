@@ -27,9 +27,9 @@ You need a web browser to run this game.
 
 ## Project Structure
 
-- `index.html`: The main HTML file.
-- `style.css`: The CSS file for styling the game.
-- `script.js`: The JavaScript file containing the game logic.
+- `tic.html`: The main HTML file.
+- `tic.css`: The CSS file for styling the game.
+- `tic.js`: The JavaScript file containing the game logic.
 
 ## Contributing
 
