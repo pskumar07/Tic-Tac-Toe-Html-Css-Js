@@ -1,8 +1,3 @@
-It looks like you're working on a Tic-Tac-Toe game project using HTML, CSS, and JavaScript. If you need help with anything specific, like updating your README.md file, adding new features, or fixing bugs, feel free to let me know!
-
-Here's a template for your `README.md` file that you might find helpful:
-
-```markdown
 # Tic-Tac-Toe Game
 
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
